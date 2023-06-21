@@ -1,2 +1,2 @@
-# little-mcu-os-with
+# little-mcu-os
 a mcu little os
